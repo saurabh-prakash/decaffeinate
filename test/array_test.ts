@@ -5,6 +5,8 @@ describe('arrays', () => {
     check(`[]`, `[];`);
   });
 
+  
+  
   it('does not change arrays with various values on one line', () => {
     check(`[  1,2,   3]`, `[  1,2,   3];`);
   });
