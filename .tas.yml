@@ -12,4 +12,5 @@ postMerge:
 postRun:
      command:
         - yarn --version
+tier: large
 version: 1.0
