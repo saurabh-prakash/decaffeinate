@@ -14,4 +14,4 @@ postRun:
         - yarn --version
 tier: large
 parallelism: 2
-version: 1.0
+version: 1.1
