@@ -14,4 +14,5 @@ postRun:
         - yarn --version
 tier: large
 parallelism: 2
+splitMode: file
 version: 1.1
